@@ -1,1 +1,1 @@
-# Flight-Simulator-p5js
+\# p5.js Flight SimulatorInteractive flight simulator built as part of the Creative Engineering Lab course.\## 🚀 Live DemoYou can fly the simulator directly from your browser here: https://dvir-tal.github.io/Flight-Simulator-p5js/\## 🛠️ Features\- \*\*Physics Engine:\*\* Simulated aerodynamic forces including turning and speeding forward.\- \*\*Real-time Controls:\*\* Switch between arrow keys and WASD.\## 💻 Tech Stack\- JavaScript\- p5.js library
